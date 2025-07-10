@@ -10,7 +10,7 @@
 ### About Me
 
 - I’m learning about **NodeJS** lately.
-- Ask me about **Development, hackathon ideas & linux**
+- Ask me about **Development, Hackathon ideas & Linux**
 - Currently exploring **HealthTech + AI + Big Data**
 - My hobbies also include listening to music, playing guitar and singing :))
 
